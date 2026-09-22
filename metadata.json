@@ -1,0 +1,6 @@
+{
+  "name": "Trèfle Tech - Agence Digitale INP-HB",
+  "description": "Expertise technique web, solutions logicielles et vitrine digitale par les diplômés de l'INP-HB Yamoussoukro et Gagnoa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
